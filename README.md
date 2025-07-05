@@ -1,5 +1,3 @@
-🧾 Step-by-Step Description of the Code
-
 1. Import Required Libraries
    import numpy as np
    import pandas as pd
